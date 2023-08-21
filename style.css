@@ -20,3 +20,9 @@ label
 	font-weight: bold;
 	margin: 2px 2px 2px 2px;
 }
+
+h3
+{
+	font-weight: bold;
+	font-size: 24px !Important;
+}
